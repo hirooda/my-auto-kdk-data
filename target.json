@@ -1,0 +1,18 @@
+{
+    "include": [
+        {
+            "keyboard": "rows46ball",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=-DINIT_EE_HANDS_LEFT",
+            "name": "rows46ball_vial_left"
+        },
+        {
+            "keyboard": "rows46ball",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=-DINIT_EE_HANDS_RIGHT",
+            "name": "rows46ball_vial_right"
+        }
+    ]
+}
